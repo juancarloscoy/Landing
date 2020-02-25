@@ -1,0 +1,15 @@
+{ "images" : [
+    {
+        "text":"image-big.png",
+        "image":"../assets/image-big.png"
+    },
+    {
+        "text":"image-big2.png",
+        "image":"../assets/image-big2.png"
+    },
+    {
+        "text":"image-big3.png",
+        "image":"../assets/image-big3.jpg"
+    }
+    ]
+}
